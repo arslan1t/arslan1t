@@ -23,7 +23,7 @@ engine survives a crash, how a path planner proves its route is optimal.
 | Project | About |
 | --- | --- |
 | **[UBC — Uzbek Basketball Culture](https://github.com/arslan1t/ubc)**<br>[ubculture.uz](https://ubculture.uz) | Basketball platform for Uzbekistan: court map with reviews, open runs, 1v1 tournaments with a live bracket, player profiles, news and media. Next.js 15 + NestJS/Fastify monorepo, PostgreSQL + Prisma, Cloudflare R2, Telegram and Google sign-in, moderation panel. |
-| **[UHA SHOP](https://github.com/arslan1t/uhashop)**<br>[uhashop.uz](https://uhashop.uz) | Website and back office for the UHA basketball brand: sneaker marketplace with player sets and promo codes, 3×3 league, youth academy with athlete, parent and coach portals. Next.js 15, Firebase, Cloudflare R2, Telegram bot login, three languages. |
+| **[UHA SHOP](https://github.com/arslan1t/uhashop)** | Website and back office for the UHA basketball brand: sneaker marketplace with player sets and promo codes, 3×3 league, youth academy with athlete, parent and coach portals. Next.js 15, Firebase, Cloudflare R2, Telegram bot login, three languages. |
 | **[Kapibara](https://github.com/arslan1t/kapibara)** | Online store of personalised children's books: the customer picks a story, adds the child's name and photo and places an order. Customer account, admin panel, background job worker, YooKassa payments, pluggable storage and mail providers. |
 
 ### Libraries and engineering
